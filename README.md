@@ -6,6 +6,8 @@ Hello, I'm Rohit Jindal, currently serving as a Senior Data Scientist at Target.
 taken me through some remarkable organizations, including Mastercard, State Street, and Indian Railways. My academic
 path has been equally enriching, with stops at the Indian Institute of Science (IISc), the University of Cambridge, and Delhi
 Technological University (DTU).
+
+
 Welcome Note
 Dear learners, welcome to our shared journey of discovery and growth. I've put together a comprehensive set of resources
 aimed at streamlining your learning process. After each class, I take the time to compile our discussions into accessible
@@ -21,10 +23,16 @@ other logically.
 I've organized these materials into three folders, which will be automatically updated after every class to ensure you have
 the most current information at your fingertips.
 Resource Folders
-1. Scribble Notes: This folder is a direct reflection of our classroom interactions, offering you the raw, unedited insights
+
+
+# 1. Scribble Notes: This folder is a direct reflection of our classroom interactions, offering you the raw, unedited insights
 from each session.
-2. 5 Minute Summary: Here, you'll find concise summaries of our classes, designed to help you quickly recall and review
+
+
+# 2. 5 Minute Summary: Here, you'll find concise summaries of our classes, designed to help you quickly recall and review
 the key concepts we've covered.
-3. Interview Questions: This collection is your toolkit for deepening your understanding and testing your knowledge
+
+
+# 3. Interview Questions: This collection is your toolkit for deepening your understanding and testing your knowledge
 against practical, real-world problems. Please follow the sequence provided for the best learning experience.
 I'm excited to be part of your learning journey and am
